@@ -1,13 +1,13 @@
-# Contributors name are :
-
-<ol>
-	<h3>
+<!Doctype html>
+<html>
+<h2>Name of contributors and emails</h2>
+<ul>
 		<li>Adeoba Emmanuel Tosin</li>
 		<br>
-			<ol>Email:dbtosine4real@gmail.com</ol>
+			<input type="Email:dbtosine4real@gmail.com"/>
 		<br>
-		<li>Chioma Enemuo<li>
+		<li>Chioma Enemuo</li>
 		<br>
-			<ol>Email:enemuochioma77@gmail.com</ol>
-	</h3>
-</ol>
+			<input type="Email:enemuochioma77@gmail.com"/>
+</ul>
+</html>
